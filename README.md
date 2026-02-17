@@ -1,5 +1,7 @@
 # Indian Election Data Analytics 
 
+![image](https://github.com/kovidanand/SQL-Indian_Election_Analysis_P7/blob/main/Election_png.png)
+
 ## 1. Executive Summary
 
 This project delivers a production-ready SQL-based analytical solution for structured election data. It transforms raw relational datasets into strategic intelligence using optimized queries, advanced aggregations, window functions, and performance-driven logic.
